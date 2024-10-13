@@ -18,6 +18,7 @@ export default function WorkSection() {
             , with our expert solutions. Whether you're looking to enhance your
             digital presence.
           </h1>
+          <h2>This is me </h2>
         </div>
       </div>
     </section>
